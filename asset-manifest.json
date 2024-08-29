@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nipuna/static/css/main.d579c9d6.css",
-    "main.js": "/Nipuna/static/js/main.3d3596f0.js",
-    "static/js/453.be71d3c9.chunk.js": "/Nipuna/static/js/453.be71d3c9.chunk.js",
-    "index.html": "/Nipuna/index.html",
-    "main.d579c9d6.css.map": "/Nipuna/static/css/main.d579c9d6.css.map",
-    "main.3d3596f0.js.map": "/Nipuna/static/js/main.3d3596f0.js.map",
-    "453.be71d3c9.chunk.js.map": "/Nipuna/static/js/453.be71d3c9.chunk.js.map"
+    "main.css": "/Nipuna/login/static/css/main.d579c9d6.css",
+    "main.js": "/Nipuna/login/static/js/main.f4a4e8a4.js",
+    "static/js/453.be71d3c9.chunk.js": "/Nipuna/login/static/js/453.be71d3c9.chunk.js",
+    "index.html": "/Nipuna/login/index.html",
+    "main.d579c9d6.css.map": "/Nipuna/login/static/css/main.d579c9d6.css.map",
+    "main.f4a4e8a4.js.map": "/Nipuna/login/static/js/main.f4a4e8a4.js.map",
+    "453.be71d3c9.chunk.js.map": "/Nipuna/login/static/js/453.be71d3c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d579c9d6.css",
-    "static/js/main.3d3596f0.js"
+    "static/js/main.f4a4e8a4.js"
   ]
 }
